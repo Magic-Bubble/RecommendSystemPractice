@@ -1,9 +1,5 @@
 # 《推荐系统实践》(项亮等著) —— 代码实现
 
-## 原版书籍
-
-[PDF](https://github.com/Magic-Bubble/RecommendSystemPractice/blob/master/Recommendation-System-Practice.pdf)
-
 ## 算法原理纯享
 
 博客地址：TODO
