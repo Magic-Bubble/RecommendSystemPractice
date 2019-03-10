@@ -11,7 +11,6 @@
 ## 数据准备
 
 `mkdir dataset`
-`cd dataset`
 
 文件夹名称及数据集下载地址:
 1. ml-1m: http://files.grouplens.org/datasets/movielens/ml-1m.zip
